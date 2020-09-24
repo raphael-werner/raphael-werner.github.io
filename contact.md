@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
 ---
 Email: rwerner@lst.uni-saarland.de
 
