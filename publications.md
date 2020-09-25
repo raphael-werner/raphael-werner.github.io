@@ -6,7 +6,7 @@ This is where I will upload publications. For the time being, check out my [Rese
 
 
 
-#### 2020
+### 2020
 
 Trouvain, J. & **Werner, R.** (accepted). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld.
 
@@ -18,7 +18,7 @@ Trouvain, J., **Werner, R.**, & Möbius, B. (2020). An acoustic analysis of inbr
 
 **Werner, R.**, Trouvain, J. & Möbius, B. (2020). Ein sprachübergreifender Vergleich des Pausenverhaltens natürlicher Sprecher in verschiedenen Sprechtempi mit TTS-Systemen. 31st Conference Elektronische Sprachsignalverarbeitung (ESSV '20), 4-6 March, Magdeburg, pp. 101-108.
 
-#### 2019
+### 2019
 
 Trouvain, J., Möbius, B., & **Werner, R.** (2019). An Acoustic Analysis of Inbreath Noises in Read and Spontaneous Speech. 1st International Seminar
 on the Foundations of Speech, 1-3 December, Sønderborg, pp. 97-99.
