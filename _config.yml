@@ -8,11 +8,9 @@ permalink:        pretty
 # Setup
 title:            Raphael Werner
 description:      'Research Assistant & PhD Student at Saarland University'
-url:              https://raphael-werner.github.io/
 baseurl:          /
 
 
 author:
   name:           'Raphael Werner'
-  url:            https://raphael-werner.github.io/
 paginate:         5
