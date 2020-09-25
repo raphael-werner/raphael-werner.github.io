@@ -3,7 +3,6 @@ markdown:         Kramdown
 highlighter:      rouge
 url:     https://raphael-werner.github.io 
 baseurl:    "" 
-permalink:   pretty 
 
 # Setup
 title:            Raphael Werner
