@@ -25,7 +25,7 @@ This is where I will upload publications. For the time being, check out my [Rese
 <li>Trouvain, J., Möbius, B., & <strong>Werner, R.</strong> (2019). An Acoustic Analysis of Inbreath Noises in Read and Spontaneous Speech. 1st International Seminar
 on the Foundations of Speech, 1-3 December, Sønderborg, pp. 97-99.</li>
 
-<li><strong>Werner, R.</strong> (2019). An Experimental Investigation on Rhoticity and /r/-Sandhi in Devon English. 'Ratics6. 7-8 November, Paris.</li>
+<li><strong>Werner, R.</strong> (2019). An Experimental Investigation on Rhoticity and /r/-Sandhi in Devon English. 'Ratics6. 7-8 November, Paris.<a href="https://www.researchgate.net/publication/337772697_An_Experimental_Investigation_on_Rhoticity_and_r-_Sandhi_in_Devon_English" title="RG">[RG]</a></li>
 
 <li><strong>Werner, R.</strong> (2019). Straight [l]edge [l]is me [r]until the day [r]I die - Onset epenthesis in Screamed Vocals. Forum Junge Englische Linguistik Bayern (FJUEL). 12-13 September, Bayreuth.</li>
 </ul> 
