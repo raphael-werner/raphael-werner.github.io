@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 I am a PhD student in the [PINTS project](http://pauseparticles.org/) that focuses on pause-internal phonetic particles in speech communication. Within that project, I examine **phonetic aspects of breath noises, as well as their contribution to the production and perception of speech**. My supervisors are [Prof. Dr. Bernd Möbius](https://www.uni-saarland.de/lehrstuhl/moebius/members/bernd-moebius.html) and [Dr. Jürgen Trouvain](http://www.coli.uni-saarland.de/%7Etrouvain/).
