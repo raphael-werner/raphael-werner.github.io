@@ -3,8 +3,6 @@ markdown:         Kramdown
 highlighter:      rouge
 plugins: 	        [jekyll-paginate]
 
-permalink:        pretty
-
 # Setup
 title:            Raphael Werner
 description:      'Research Assistant & PhD Student at Saarland University'
