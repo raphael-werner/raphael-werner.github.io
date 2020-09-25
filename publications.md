@@ -2,14 +2,9 @@
 layout: page
 title: Publications
 ---
-This is where I will upload publications. For the time being, check out my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
-<p>This page was last updated <span id="demo"></span>.</p>
+Check out my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
 
-<script>
-document.getElementById("demo").innerHTML = document.lastModified;
-</script>
-
-Last modified:
+Last updated:
 <script language="JavaScript">
 var testlast=document.lastModified;
 document.write(" "+testlast.substr(0,10));
