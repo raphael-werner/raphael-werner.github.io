@@ -17,7 +17,8 @@ This is where I will upload publications. For the time being, check out my [Rese
 <li>Trouvain, J., **Werner, R.**, & Möbius, B. (2020). An acoustic analysis of inbreath noises in read and spontaneous speech. Speech Prosody, 25-28 May, Tokyo, pp. 789-793.</li>
 
 <li>**Werner, R.**, Trouvain, J. & Möbius, B. (2020). Ein sprachübergreifender Vergleich des Pausenverhaltens natürlicher Sprecher in verschiedenen Sprechtempi mit TTS-Systemen. 31st Conference Elektronische Sprachsignalverarbeitung (ESSV '20), 4-6 March, Magdeburg, pp. 101-108.</li>
-</ul> 
+</ul>
+
 ### 2019
 <ul>
 <li>Trouvain, J., Möbius, B., & **Werner, R.** (2019). An Acoustic Analysis of Inbreath Noises in Read and Spontaneous Speech. 1st International Seminar
