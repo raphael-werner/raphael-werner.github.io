@@ -1,7 +1,9 @@
 # Dependencies
 markdown:         Kramdown
 highlighter:      rouge
-baseurl: ""
+url:     https://raphael-werner.github.io 
+baseurl:    "" 
+permalink:   pretty 
 
 # Setup
 title:            Raphael Werner
