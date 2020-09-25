@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-Email: rwerner@lst.uni-saarland.de
+Email: rwerner[at]lst[dot]uni-saarland[dot]de
 
 Phone: +49 (0)681 302 4690
 
