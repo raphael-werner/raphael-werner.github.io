@@ -8,7 +8,7 @@ This is where I will upload publications. For the time being, check out my [Rese
 
 ### 2020
 <ul>
-<li>Trouvain, J. & **Werner, R.** (accepted). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld.</li>
+  <li>Trouvain, J. & <strong>Werner, R.</strong> (accepted). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld.</li>
 
 <li>Trouvain, J., **Werner, R.** & Möbius, B. (2020). Visualisierung von Pausen und Artikulationsgeschwindigkeit verschiedener Sprechstile. Phonetik und Phonologie 16, 10-11 September, Trier.</li>
 
