@@ -9,6 +9,12 @@ This is where I will upload publications. For the time being, check out my [Rese
 document.getElementById("demo").innerHTML = document.lastModified;
 </script>
 
+Last modified:
+<script language="JavaScript">
+var testlast=document.lastModified;
+document.write(" "+testlast.substr(0,10));
+</script>
+
 
 ### 2020
 <ul>
