@@ -6,7 +6,7 @@ plugins: 	        [jekyll-paginate]
 # Setup
 title:            Raphael Werner
 description:      'Research Assistant & PhD Student at Saarland University'
-baseurl:          ""
+baseurl:          https://raphael-werner.github.io/
 
 
 author:
