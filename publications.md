@@ -2,13 +2,13 @@
 layout: page
 title: Publications
 ---
-Check out my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
-
 Last updated:
 <script language="JavaScript">
 var testlast=document.lastModified;
 document.write(" "+testlast.substr(0,10));
 </script>
+
+In addition to this, visit my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
 
 
 ### 2020
