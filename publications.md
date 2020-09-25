@@ -21,7 +21,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 <li>Trouvain, J., <strong>Werner, R.</strong>, & Möbius, B. (2020). An acoustic analysis of inbreath noises in read and spontaneous speech. Speech Prosody, 25-28 May, Tokyo, pp. 789-793. <a href="https://www.isca-speech.org/archive/SpeechProsody_2020/abstracts/168.html" title="pdf">[pdf]</a> <a href="https://www.isca-speech.org/archive/SpeechProsody_2020/abstracts/168.html" title="html">[html]</a></li>
 
-<li><strong>Werner, R.</strong>, Trouvain, J. & Möbius, B. (2020). Ein sprachübergreifender Vergleich des Pausenverhaltens natürlicher Sprecher in verschiedenen Sprechtempi mit TTS-Systemen. 31st Conference Elektronische Sprachsignalverarbeitung (ESSV '20), 4-6 March, Magdeburg, pp. 101-108. <a href="http://www.essv.de/pdf/2020_101_108.pdf" title="pdf">[pdf]</a> <a href="http://www.essv.de/paper.php?id=444" title="html">[html]</a></li> 
+<li><strong>Werner, R.</strong>, Trouvain, J. & Möbius, B. (2020). Ein sprachübergreifender Vergleich des Pausenverhaltens natürlicher Sprecher in verschiedenen Sprechtempi mit TTS-Systemen. 31st Conference Elektronische Sprachsignalverarbeitung (ESSV '20), 4-6 March, Magdeburg, pp. 101-108. <a href="http://www.essv.de/pdf/2020_101_108.pdf" title="pdf">[pdf]</a> <a href="http://www.essv.de/paper.php?id=444" title="html">[html]</a> <span style="color:red">2nd Best Student Paper Award</span></li>
 
 </ul>
 
