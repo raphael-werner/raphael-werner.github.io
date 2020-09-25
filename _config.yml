@@ -1,7 +1,6 @@
 # Dependencies
 markdown:         Kramdown
 highlighter:      rouge
-url:     https://raphael-werner.github.io 
 baseurl:    "" 
 
 # Setup
