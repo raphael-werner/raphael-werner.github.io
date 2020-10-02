@@ -15,13 +15,13 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 <ul>
   <li>Trouvain, J. & <strong>Werner, R.</strong> (accepted). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld.</li>
 
-<li>Trouvain, J., <strong>Werner, R.</strong> & Möbius, B. (2020). Visualisierung von Pausen und Artikulationsgeschwindigkeit verschiedener Sprechstile. Phonetik und Phonologie 16, 10-11 September, Trier.</li>
+<li>Trouvain, J., <strong>Werner, R.,</strong> & Möbius, B. (2020). Visualisierung von Pausen und Artikulationsgeschwindigkeit verschiedener Sprechstile. Phonetik und Phonologie 16, 10-11 September, Trier.</li>
 
 <li>Elmers, M., Muhlack, B., <strong>Werner, R.</strong>, Trouvain, J. & Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Phonetik und Phonologie 16, 10-11 September, Trier. <a href="http://pauseparticles.org/docs/PINTS_Poster.pdf" title="html">[poster]</a></li>
 
 <li>Trouvain, J., <strong>Werner, R.</strong>, & Möbius, B. (2020). An acoustic analysis of inbreath noises in read and spontaneous speech. Speech Prosody, 25-28 May, Tokyo, 789-793. <a href="https://www.isca-speech.org/archive/SpeechProsody_2020/abstracts/168.html" title="pdf">[pdf]</a> <a href="https://www.isca-speech.org/archive/SpeechProsody_2020/abstracts/168.html" title="html">[html]</a></li>
 
-<li><strong>Werner, R.</strong>, Trouvain, J. & Möbius, B. (2020). Ein sprachübergreifender Vergleich des Pausenverhaltens natürlicher Sprecher in verschiedenen Sprechtempi mit TTS-Systemen. 31st Conference Elektronische Sprachsignalverarbeitung (ESSV '20), 4-6 March, Magdeburg, 101-108. <a href="http://www.essv.de/pdf/2020_101_108.pdf" title="pdf">[pdf]</a> <a href="http://www.essv.de/paper.php?id=444" title="html">[html]</a> <span style="color:red">2nd Best Student Paper Award</span></li>
+<li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2020). Ein sprachübergreifender Vergleich des Pausenverhaltens natürlicher Sprecher in verschiedenen Sprechtempi mit TTS-Systemen. 31st Conference Elektronische Sprachsignalverarbeitung (ESSV '20), 4-6 March, Magdeburg, 101-108. <a href="http://www.essv.de/pdf/2020_101_108.pdf" title="pdf">[pdf]</a> <a href="http://www.essv.de/paper.php?id=444" title="html">[html]</a> <span style="color:red">2nd Best Student Paper Award</span></li>
 
 </ul>
 
