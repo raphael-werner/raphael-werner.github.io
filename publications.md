@@ -10,7 +10,6 @@ document.write(" "+testlast.substr(0,10));
 
 In addition to this, visit my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
 
-http://pauseparticles.org/docs/Trouvain_Werner_2020_Bielefeld.pdf
 ### 2020
 <ul>
   <li>Trouvain, J. & <strong>Werner, R.</strong> (2020). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld.<a href="http://pauseparticles.org/docs/Trouvain_Werner_2020_Bielefeld.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Trouvain_Werner_Poster.pdf" title="html">[poster]</a></li>
