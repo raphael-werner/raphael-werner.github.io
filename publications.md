@@ -30,7 +30,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 <ul>
 <li>Trouvain, J., Möbius, B., & <strong>Werner, R.</strong> (2019). An Acoustic Analysis of Inbreath Noises in Read and Spontaneous Speech. 1st International Seminar on the Foundations of Speech, 1-3 December, Sønderborg, 97-99. <a href="http://pauseparticles.org/docs/Trouvain_et_al_SEFOS_2019.pdf" title="pdf">[pdf]</a></li>
 
-<li><strong>Werner, R.</strong> (2019). An Experimental Investigation on Rhoticity and /r/-Sandhi in Devon English. 'Ratics6. 7-8 November, Paris.<a href="https://www.researchgate.net/publication/337772697_An_Experimental_Investigation_on_Rhoticity_and_r-_Sandhi_in_Devon_English" title="ResearchGate"> [RG]</a></li>
+<li><strong>Werner, R.</strong> (2019). An Experimental Investigation on Rhoticity and /r/-Sandhi in Devon English. 'Ratics6. 7-8 November, Paris.<a href="https://www.researchgate.net/publication/337772697_An_Experimental_Investigation_on_Rhoticity_and_r-_Sandhi_in_Devon_English" title="ResearchGate">[RG]</a></li>
 
 <li><strong>Werner, R.</strong> (2019). Straight [l]edge [l]is me [r]until the day [r]I die - Onset epenthesis in Screamed Vocals. Forum Junge Englische Linguistik Bayern (FJUEL). 12-13 September, Bayreuth.</li>
 </ul> 
