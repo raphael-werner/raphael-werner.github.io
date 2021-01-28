@@ -12,7 +12,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 ### 2020
 <ul>
-<li>Trouvain, J., <strong>Werner, R.</strong>, Fuchs, S., & Möbius, B. (2020). Exploring the presence and absence of inhalation noises when speaking and when listening. 12th International Seminar on Speech Production, 14-18 December, Providence.</li>  
+<li><strong>Werner, R.</strong>, Trouvain, J., Fuchs, S., & Möbius, B. (2020). Exploring the presence and absence of inhalation noises when speaking and when listening. 12th International Seminar on Speech Production, 14-18 December, Providence.</li>  
   
 <li>Trouvain, J. & <strong>Werner, R.</strong> (2020). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld. <a href="http://pauseparticles.org/docs/Trouvain_Werner_2020_Bielefeld.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Trouvain_Werner_Poster.pdf" title="html">[poster]</a></li>
 
