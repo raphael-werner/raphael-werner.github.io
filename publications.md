@@ -10,6 +10,13 @@ document.write(" "+testlast.substr(0,10));
 
 In addition to this, visit my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
 
+### 2021
+<ul>
+<li>Trouvain, J. & <strong>Werner, R.</strong> (accepted). Human pause detection in spontaneous speech in an online experiment. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li>  
+
+<li>Elmers, M., <strong>Werner, R.</strong>, Möbius, B., & Trouvain, J. (accepted). Evaluating the effect of pauses on number recollection in synthesized speech. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li>  
+
+</ul>
 ### 2020
 <ul>
 <li><strong>Werner, R.</strong>, Trouvain, J., Fuchs, S., & Möbius, B. (2020). Exploring the presence and absence of inhalation noises when speaking and when listening. 12th International Seminar on Speech Production, 14-18 December, Providence.</li>  
