@@ -12,9 +12,9 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 ### 2021
 <ul>
-<li>Trouvain, J. & <strong>Werner, R.</strong> (accepted). Human pause detection in spontaneous speech in an online experiment. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li>  
+<li>Trouvain, J. & <strong>Werner, R.</strong> (2021). Human pause detection in spontaneous speech in an online experiment. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li> <a href="http://www.essv.de/essv2021/pdfs/09_trouvain.pdf" title="pdf">[pdf]</a>
 
-<li>Elmers, M., <strong>Werner, R.</strong>, Möbius, B., & Trouvain, J. (accepted). Evaluating the effect of pauses on number recollection in synthesized speech. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li>  
+<li>Elmers, M., <strong>Werner, R.</strong>, Möbius, B., & Trouvain, J. (2021). Evaluating the effect of pauses on number recollection in synthesized speech. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li> <a href="http://www.essv.de/essv2021/pdfs/26_elmers.pdf" title="pdf">[pdf]</a>
 
 </ul>
 
