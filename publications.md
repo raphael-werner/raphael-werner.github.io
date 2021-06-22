@@ -16,8 +16,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 <li>Muhlack, B., Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., <strong>Werner, R.</strong>, Ryzhova, M., and Möbius, B. 2021. Revisiting recall effects of filler particles in German and English. Interspeech 2021, 30 Aug - 03 Sept. (In Press)</li>
   
-<li>Elmers, M., <strong>Werner, R.</strong>, Muhlack, B., Möbius, B., and Trouvain, J. 2021. Take a breath: Respiratory sounds improve recollection in synthetic speech. Interspeech 2021, . (In Press)</li>
-
+<li>Elmers, M., <strong>Werner, R.</strong>, Muhlack, B., Möbius, B., and Trouvain, J. 2021. Take a breath: Respiratory sounds improve recollection in synthetic speech. Interspeech 2021, 30 Aug - 03 Sept. (In Press)</li>
 
 <li>Trouvain, J. & <strong>Werner, R.</strong> (2021). Human pause detection in spontaneous speech in an online experiment. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li> <a href="http://www.essv.de/essv2021/pdfs/09_trouvain.pdf" title="pdf">[pdf]</a>
 
