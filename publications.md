@@ -12,6 +12,13 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 ### 2021
 <ul>
+<li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., and Möbius, B. 2021. Inhalations in speech: acoustic and physiological characteristics. Interspeech 2021, Aug 30 - Sept 03. (In Press)</li>
+
+<li>Muhlack, B., Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., <strong>Werner, R.</strong>, Ryzhova, M., and Möbius, B. 2021. Revisiting recall effects of filler particles in German and English. Interspeech 2021, 30 Aug - 03 Sept. (In Press)</li>
+  
+<li>Elmers, M., <strong>Werner, R.</strong>, Muhlack, B., Möbius, B., and Trouvain, J. 2021. Take a breath: Respiratory sounds improve recollection in synthetic speech. Interspeech 2021, . (In Press)</li>
+
+
 <li>Trouvain, J. & <strong>Werner, R.</strong> (2021). Human pause detection in spontaneous speech in an online experiment. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li> <a href="http://www.essv.de/essv2021/pdfs/09_trouvain.pdf" title="pdf">[pdf]</a>
 
 <li>Elmers, M., <strong>Werner, R.</strong>, Muhlack, B., Möbius, B., & Trouvain, J. (2021). Evaluating the effect of pauses on number recollection in synthesized speech. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin.</li> <a href="http://www.essv.de/essv2021/pdfs/26_elmers.pdf" title="pdf">[pdf]</a>
@@ -20,7 +27,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 ### 2020
 <ul>
-<li><strong>Werner, R.</strong>, Trouvain, J., Fuchs, S., & Möbius, B. (2020). Exploring the presence and absence of inhalation noises when speaking and when listening. 12th International Seminar on Speech Production, 14-18 December, Providence.</li>  
+<li><strong>Werner, R.</strong>, Trouvain, J., Fuchs, S., & Möbius, B. (2020). Exploring the presence and absence of inhalation noises when speaking and when listening. 12th International Seminar on Speech Production, 14-18 December, Providence. (In Press)</li>  
   
 <li>Trouvain, J. & <strong>Werner, R.</strong> (2020). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld. <a href="http://pauseparticles.org/docs/Trouvain_Werner_2020_Bielefeld.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Trouvain_Werner_Poster.pdf" title="html">[poster]</a></li>
 
