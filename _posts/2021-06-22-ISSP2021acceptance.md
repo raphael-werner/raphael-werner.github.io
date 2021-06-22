@@ -2,7 +2,7 @@
 layout: post
 title: Interspeech 2021 acceptance
 ---
-It's been quite a while that I have posted on here (mainly because I used [twitter](https://twitter.com/verschallend) for announcing smaller updates) but there is some wonderful news concerning this year's Interspeech. Among the 6 paper from our department that were accepted, all 3 papers from the PINTS project made it in, too! They are:
+It's been quite a while since I have posted on here (mainly because I used [twitter](https://twitter.com/verschallend) for announcing smaller updates) but there is some wonderful news concerning this year's Interspeech. Among the 6 paper from our department that were accepted, all 3 papers from the PINTS project made it in, too! They are:
 
 <ul>
 <li>Werner, R., Fuchs, S., Trouvain, J., and Möbius, B. 2021. Inhalations in speech: acoustic and physiological characteristics. Interspeech 2021, Aug 30 - Sept 03.</li>
