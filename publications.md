@@ -12,12 +12,12 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 ### 2021
 <ul>
-<li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., & Möbius, B. (2021). Inhalations in speech: acoustic and physiological characteristics. Interspeech 2021, 30 Aug-3 Sep, Brno. (In Press)</li>
+<li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., & Möbius, B. (2021). Inhalations in speech: acoustic and physiological characteristics. Interspeech 2021, 30 Aug-3 Sep, Brno, 3186-3190. <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/werner21_interspeech.pdf" title="pdf">[pdf]</a> <a href="https://www.isca-speech.org/archive/interspeech_2021/werner21_interspeech.html" title="html">[html]</a></li>
 
-<li>Muhlack, B., Elmers, M., Drenhaus, H., Trouvain, J., van Os, M., <strong>Werner, R.</strong>, Ryzhova, M., & Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, 30 Aug-3 Sep, Brno. (In Press)</li>
+<li>Elmers, M., <strong>Werner, R.</strong>, Muhlack, B., Möbius, B., & Trouvain, J. (2021). Take a breath: Respiratory sounds improve recollection in synthetic speech. Interspeech 2021, 30 Aug-3 Sep, Brno, 3196-3200. <a href="https://www.isca-speech.org/archive/interspeech_2021/elmers21_interspeech.pdf" title="pdf">[pdf]</a> <a href="https://www.isca-speech.org/archive/interspeech_2021/elmers21_interspeech.html" title="html">[html]</a></li>
 
-<li>Elmers, M., <strong>Werner, R.</strong>, Muhlack, B., Möbius, B., & Trouvain, J. (2021). Take a breath: Respiratory sounds improve recollection in synthetic speech. Interspeech 2021, 30 Aug-3 Sep, Brno. (In Press)</li>
-  
+<li>Muhlack, B., Elmers, M., Drenhaus, H., Trouvain, J., van Os, M., <strong>Werner, R.</strong>, Ryzhova, M., & Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, 30 Aug-3 Sep, Brno, 3979-3983. <a href="https://www.isca-speech.org/archive/interspeech_2021/muhlack21_interspeech.pdf" title="pdf">[pdf]</a> <a href="https://www.isca-speech.org/archive/interspeech_2021/muhlack21_interspeech.html" title="html">[html]</a></li>
+
 <li><strong>Werner, R.</strong>, Trouvain, J., Fuchs, S., & Möbius, B. (2021). Exploring the presence and absence of inhalation noises when speaking and when listening. Proc. 12th International Seminar on Speech Production (2020), New Haven, CT: Haskins Press, pp. 214-217. <a href="http://pauseparticles.org/docs/Werner_et_al_ISSP2021.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Werner_ISSP2020_Poster.pdf" title="poster">[poster]</a></li>  
 
 <li>Trouvain, J. & <strong>Werner, R.</strong> (2021). Human pause detection in spontaneous speech in an online experiment. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin. <a href="http://www.essv.de/essv2021/pdfs/09_trouvain.pdf" title="pdf">[pdf]</a></li>
