@@ -9,6 +9,11 @@ document.write(" "+testlast.substr(0,10));
 </script>
 
 In addition to this, visit my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
+### 2022
+<ul>
+ <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (accepted). Optionality and variability of speech pauses in read speech across languages and rates. Proc. Speech Prosody, Lisbon.</li>
+ <li><strong>Werner, R.</strong>, Trouvain, J., Muhlack, B., & Möbius, B. (accepted). Perceptual categorization of breath noises in speech pauses. Proc. 33rd Conf. Elektronische Sprachsignalverarbeitung (ESSV '22), Sønderborg.</li>
+ <li>Trouvain, J. & <strong>Werner, R</strong>. (2022). A phonetic view on annotating speech pauses and pause-internal phonetic particles. In: Schwarze, C. & Grawunder, S. (eds): Transkription und Annotation gesprochener Sprache und multimodaler Interaktion. Tübingen: Narr, pp. 55-73.</li>
 
 ### 2021
 <ul>
