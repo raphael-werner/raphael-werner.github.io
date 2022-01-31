@@ -12,9 +12,12 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 ### 2022
 <ul>
  <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (accepted). Optionality and variability of speech pauses in read speech across languages and rates. Proc. Speech Prosody, Lisbon.</li>
+ 
  <li><strong>Werner, R.</strong>, Trouvain, J., Muhlack, B., & Möbius, B. (accepted). Perceptual categorization of breath noises in speech pauses. Proc. 33rd Conf. Elektronische Sprachsignalverarbeitung (ESSV '22), Sønderborg.</li>
+ 
  <li>Trouvain, J. & <strong>Werner, R</strong>. (2022). A phonetic view on annotating speech pauses and pause-internal phonetic particles. In: Schwarze, C. & Grawunder, S. (eds): Transkription und Annotation gesprochener Sprache und multimodaler Interaktion. Tübingen: Narr, pp. 55-73.</li>
-
+</ul>
+ 
 ### 2021
 <ul>
  <li><strong>Werner, R.</strong>, Trouvain, J., Muhlack, B., & Möbius, B. (2021). Breath noise perception - a pilot study on airway usage. Phonetik und Phonologie 17, 29-30 September, Frankfurt am Main. <a href="http://pauseparticles.org/docs/Werner_P&P21_Poster.pdf" title="poster">[poster]</a></li>
