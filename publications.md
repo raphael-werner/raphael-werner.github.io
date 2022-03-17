@@ -13,7 +13,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 <ul>
  <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (accepted). Optionality and variability of speech pauses in read speech across languages and rates. Proc. Speech Prosody, Lisbon.</li>
  
- <li><strong>Werner, R.</strong>, Trouvain, J., Muhlack, B., & Möbius, B. (accepted). Perceptual categorization of breath noises in speech pauses. Proc. 33rd Conf. Elektronische Sprachsignalverarbeitung (ESSV '22), Sønderborg. <a href="http://pauseparticles.org/docs/werner_etal_essv2022.pdf" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1152" title="html">[html]</a> <a href="http://pauseparticles.org/docs/Poster_ESSV22_Werner.pdf" title="poster">[poster]</a></li>
+ <li><strong>Werner, R.</strong>, Trouvain, J., Muhlack, B., & Möbius, B. (accepted). Perceptual categorization of breath noises in speech pauses. Proc. 33rd Conf. Elektronische Sprachsignalverarbeitung (ESSV '22), Sønderborg. <a href="http://pauseparticles.org/docs/werner_etal_essv2022.pdf" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1152" title="html">[html]</a> <a href="http://pauseparticles.org/docs/Poster_ESSV22_Werner.pdf" title="poster">[poster]</a></li> <span style="color:red">Best Student Paper Award</span>
  
  <li>Trouvain, J. & <strong>Werner, R</strong>. (2022). A phonetic view on annotating speech pauses and pause-internal phonetic particles. In: Schwarze, C. & Grawunder, S. (eds): Transkription und Annotation gesprochener Sprache und multimodaler Interaktion. Tübingen: Narr, pp. 55-73.<a href="https://www.coli.uni-saarland.de/~trouvain/docs/Trouvain_Werner_2022.pdf" title="pdf">[preprint pdf]</a></li>
 </ul>
