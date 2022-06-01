@@ -11,9 +11,11 @@ document.write(" "+testlast.substr(0,10));
 In addition to this, visit my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
 ### 2022
 <ul>
- <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (accepted). Optionality and variability of speech pauses in read speech across languages and rates. Proc. Speech Prosody, Lisbon.</li>
+ <li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius. B., & Birkholz P. (accepted). Comparison of acoustic parameters of inhalations vs. exhalations with 3D-printed vocal tract models. 8th International Conference on Speech Motor Control, 24-27 August, Groningen. </li>
  
- <li><strong>Werner, R.</strong>, Trouvain, J., Muhlack, B., & Möbius, B. (accepted). Perceptual categorization of breath noises in speech pauses. Proc. 33rd Conf. Elektronische Sprachsignalverarbeitung (ESSV '22), Sønderborg. <a href="http://pauseparticles.org/docs/werner_etal_essv2022.pdf" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1152" title="html">[html]</a> <a href="http://pauseparticles.org/docs/Poster_ESSV22_Werner.pdf" title="poster">[poster]</a> <span style="color:red">Best Student Paper Award</span> </li>
+ <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2022). Optionality and variability of speech pauses in read speech across languages and rates. Speech Prosody, 23-26 May, Lisbon. <a href="https://www.isca-speech.org/archive/pdfs/speechprosody_2022/werner22_speechprosody.pdf" title="pdf">[pdf]</a> <a href="https://www.isca-speech.org/archive/speechprosody_2022/werner22_speechprosody.html" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1152" title="html">[html]</a></li>
+ 
+ <li><strong>Werner, R.</strong>, Trouvain, J., Muhlack, B., & Möbius, B. (2022). Perceptual categorization of breath noises in speech pauses. Proc. 33rd Conf. Elektronische Sprachsignalverarbeitung (ESSV '22), 2-4 March, Sønderborg. <a href="http://pauseparticles.org/docs/werner_etal_essv2022.pdf" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1152" title="html">[html]</a> <a href="http://pauseparticles.org/docs/Poster_ESSV22_Werner.pdf" title="poster">[poster]</a> <span style="color:red">Best Student Paper Award</span></li>
  
  <li>Trouvain, J. & <strong>Werner, R</strong>. (2022). A phonetic view on annotating speech pauses and pause-internal phonetic particles. In: Schwarze, C. & Grawunder, S. (eds): Transkription und Annotation gesprochener Sprache und multimodaler Interaktion. Tübingen: Narr, pp. 55-73.<a href="https://www.coli.uni-saarland.de/~trouvain/docs/Trouvain_Werner_2022.pdf" title="pdf">[preprint pdf]</a></li>
 </ul>
