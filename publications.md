@@ -13,7 +13,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 <ul>
  <li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius. B., & Birkholz P. (accepted). Comparison of acoustic parameters of inhalations vs. exhalations with 3D-printed vocal tract models. 8th International Conference on Speech Motor Control, 24-27 August, Groningen.</li>
  
- <li>Werner, R.</strong>, Trouvain, J., & Möbius, B. (accepted). Speaker discrimination and classification in breath noises by human listeners. 30th Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), 10-13 July, Prague.</li>
+ <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (accepted). Speaker discrimination and classification in breath noises by human listeners. 30th Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), 10-13 July, Prague.</li>
  
  <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2022). Optionality and variability of speech pauses in read speech across languages and rates. Speech Prosody, 23-26 May, Lisbon. <a href="https://www.isca-speech.org/archive/pdfs/speechprosody_2022/werner22_speechprosody.pdf" title="pdf">[pdf]</a> <a href="https://www.isca-speech.org/archive/speechprosody_2022/werner22_speechprosody.html" title="html">[html]</a></li>
  
