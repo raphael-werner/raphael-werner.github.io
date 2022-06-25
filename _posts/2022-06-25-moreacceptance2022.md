@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some more news for 2022
+title: Some more news for 2022 (and a dog picture)
 ---
 There's 2 more soon-to-be-happening conferences that I'll be at:
 
