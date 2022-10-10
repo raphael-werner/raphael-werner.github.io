@@ -11,7 +11,9 @@ document.write(" "+testlast.substr(0,10));
 In addition to this, visit my [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2) page.
 ### 2022
 <ul>
- <li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius. B., & Birkholz P. (accepted). Comparison of acoustic parameters of inhalations vs. exhalations with 3D-printed vocal tract models. 8th International Conference on Speech Motor Control, 24-27 August, Groningen.</li>
+  <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2022). Speaker discrimination and classification in breath noises by human listeners. Phonetik und Phonologie 18, 6-7 October, Bielefeld. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/Werner_PundP22.pdf" title="pdf">[pdf]</a> <a href="https://biecoll.ub.uni-bielefeld.de/index.php/pundp2022/article/view/1050" title="html">[html]</a> <a href="https://cloud.hiz-saarland.de/s/PgZ3PQ3PM9DJnoF" title="stimuli">[stimuli]</a></li>
+ 
+ <li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius. B., & Birkholz P. (2022). Comparison of acoustic parameters of inhalations vs. exhalations with 3D-printed vocal tract models. 8th International Conference on Speech Motor Control, 24-27 August, Groningen.</li>
  
  <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2022). Speaker discrimination and classification in breath noises by human listeners. 30th Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), 10-13 July, Prague, 68-69. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/IAFPA2022_WIP_Werner.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Poster_IAFPA22_Werner.pdf" title="poster">[poster]</a> <a href="https://cloud.hiz-saarland.de/s/PgZ3PQ3PM9DJnoF" title="stimuli">[stimuli]</a> <span style="color:red">Best Student Poster Award</span></li>
  
