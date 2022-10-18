@@ -48,7 +48,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 <li>Trouvain, J., <strong>Werner, R.</strong>, & Möbius, B. (2020). Visualisierung von Pausen und Artikulationsgeschwindigkeit verschiedener Sprechstile. Phonetik und Phonologie 16, 10-11 September, Trier.</li>
 
-<li>Elmers, M., Muhlack, B., <strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Phonetik und Phonologie 16, 10-11 September, Trier. <a href="http://pauseparticles.org/docs/PINTS_Poster.pdf" title="html">[poster]</a></li>
+<li>Elmers, M., Muhlack, B., <strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Phonetik und Phonologie 16, 10-11 September, Trier. <a href="http://www.pauseparticles.org/docs/PINTS_Poster.pdf" title="html">[poster]</a></li>
 
 <li>Trouvain, J., <strong>Werner, R.</strong>, & Möbius, B. (2020). An acoustic analysis of inbreath noises in read and spontaneous speech. Speech Prosody, 25-28 May, Tokyo, 789-793. <a href="https://www.isca-speech.org/archive/pdfs/speechprosody_2020/trouvain20_speechprosody.pdf" title="pdf">[pdf]</a> <a href="https://www.isca-speech.org/archive/speechprosody_2020/trouvain20_speechprosody.html" title="html">[html]</a></li>
 
