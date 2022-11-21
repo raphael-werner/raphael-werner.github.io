@@ -27,3 +27,17 @@ Anja Jones Translation, Newquay, United Kingdom
 Erasmus internship: translation, search engine optimization
 
 ## Education
+### 2019-present:
+PhD student, Phonetics, Saarland University, Saarbrücken, Germany
+Thesis topic: Perceptual and acoustic aspects of speech breathing and pauses
+
+### 2017-2018:
+Erasmus exchange, University of Exeter, United Kingdom
+
+### 2015-2017 & 2018-2019:
+Master of Arts, Julius-Maximilians-Universität, Würzburg, Germany
+General and Applied Linguistics
+
+### 2011-2015:
+Bachelor of Arts, Julius-Maximilians-Universität, Würzburg, Germany
+English and American Studies
