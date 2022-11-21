@@ -13,7 +13,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 <ul>
   <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2022). Speaker discrimination and classification in breath noises by human listeners. Phonetik und Phonologie 18, 6-7 October, Bielefeld. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/Werner_PundP22.pdf" title="pdf">[pdf]</a> <a href="https://biecoll.ub.uni-bielefeld.de/index.php/pundp2022/article/view/1050" title="html">[html]</a> <a href="https://cloud.hiz-saarland.de/s/PgZ3PQ3PM9DJnoF" title="stimuli">[stimuli]</a></li>
  
- <li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius. B., & Birkholz P. (2022). Comparison of acoustic parameters of inhalations vs. exhalations with 3D-printed vocal tract models. 8th International Conference on Speech Motor Control, 24-27 August, Groningen. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/Werner-SMC2022.pdf" title="pdf">[pdf]</a> <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/SMC22-Poster-Werner.pdf" title="poster">[poster]</a></li>
+ <li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius. B., & Birkholz P. (2022). Comparison of acoustic parameters of inhalations vs. exhalations with 3D-printed vocal tract models. 8th International Conference on Speech Motor Control, 24-27 August, Groningen, 253-254. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/Werner-SMC2022.pdf" title="pdf">[pdf]</a> <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/SMC22-Poster-Werner.pdf" title="poster">[poster]</a></li>
  
  <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2022). Speaker discrimination and classification in breath noises by human listeners. 30th Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), 10-13 July, Prague, 68-69. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/IAFPA2022_WIP_Werner.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Poster_IAFPA22_Werner.pdf" title="poster">[poster]</a> <a href="https://cloud.hiz-saarland.de/s/PgZ3PQ3PM9DJnoF" title="stimuli">[stimuli]</a> <span style="color:red">Best Student Poster Award</span></li>
 
@@ -21,7 +21,7 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
  
  <li><strong>Werner, R.</strong>, Trouvain, J., Muhlack, B., & Möbius, B. (2022). Perceptual categorization of breath noises in speech pauses. Proc. 33rd Conf. Elektronische Sprachsignalverarbeitung (ESSV '22), 2-4 March, Sønderborg, 139-146. <a href="http://pauseparticles.org/docs/werner_etal_essv2022.pdf" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1152" title="html">[html]</a> <a href="http://pauseparticles.org/docs/Poster_ESSV22_Werner.pdf" title="poster">[poster]</a> <a href="https://cloud.hiz-saarland.de/s/2ktDEJPk95GHLjS" title="stimuli">[stimuli]</a> <span style="color:red">Best Student Paper Award</span></li>
  
- <li>Trouvain, J. & <strong>Werner, R</strong>. (2022). A phonetic view on annotating speech pauses and pause-internal phonetic particles. In: Schwarze, C. & Grawunder, S. (eds): Transkription und Annotation gesprochener Sprache und multimodaler Interaktion. Tübingen: Narr, pp. 55-73.<a href="https://www.coli.uni-saarland.de/~trouvain/docs/Trouvain_Werner_2022.pdf" title="pdf">[preprint pdf]</a></li>
+ <li>Trouvain, J. & <strong>Werner, R</strong>. (2022). A phonetic view on annotating speech pauses and pause-internal phonetic particles. In: Schwarze, C. & Grawunder, S. (eds): Transkription und Annotation gesprochener Sprache und multimodaler Interaktion. Tübingen: Narr, 55-73.<a href="https://www.coli.uni-saarland.de/~trouvain/docs/Trouvain_Werner_2022.pdf" title="pdf">[preprint pdf]</a></li>
 </ul>
  
 ### 2021
@@ -36,15 +36,15 @@ In addition to this, visit my [ResearchGate](https://www.researchgate.net/profil
 
 <li><strong>Werner, R.</strong>, Trouvain, J., Fuchs, S., & Möbius, B. (2021). Exploring the presence and absence of inhalation noises when speaking and when listening. Proc. 12th International Seminar on Speech Production (2020), New Haven, CT: Haskins Press, pp. 214-217. <a href="http://pauseparticles.org/docs/Werner_et_al_ISSP2021.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Werner_ISSP2020_Poster.pdf" title="poster">[poster]</a></li>  
 
-<li>Trouvain, J. & <strong>Werner, R.</strong> (2021). Human pause detection in spontaneous speech in an online experiment. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin. <a href="http://www.essv.de/essv2021/pdfs/09_trouvain.pdf" title="pdf">[pdf]</a></li>
+<li>Trouvain, J. & <strong>Werner, R.</strong> (2021). Human pause detection in spontaneous speech in an online experiment. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin, 59-66. <a href="http://www.essv.de/essv2021/pdfs/09_trouvain.pdf" title="pdf">[pdf]</a></li>
 
-<li>Elmers, M., <strong>Werner, R.</strong>, Muhlack, B., Möbius, B., & Trouvain, J. (2021). Evaluating the effect of pauses on number recollection in synthesized speech. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin. <a href="http://www.essv.de/essv2021/pdfs/26_elmers.pdf" title="pdf">[pdf]</a></li> 
+<li>Elmers, M., <strong>Werner, R.</strong>, Muhlack, B., Möbius, B., & Trouvain, J. (2021). Evaluating the effect of pauses on number recollection in synthesized speech. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), 3-5 March, Berlin, 289-295. <a href="http://www.essv.de/essv2021/pdfs/26_elmers.pdf" title="pdf">[pdf]</a></li> 
 </ul>
 
 ### 2020
 <ul>
   
-<li>Trouvain, J. & <strong>Werner, R.</strong> (2020). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld. <a href="http://pauseparticles.org/docs/Trouvain_Werner_2020_Bielefeld.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Trouvain_Werner_Poster.pdf" title="poster">[poster]</a></li>
+<li>Trouvain, J. & <strong>Werner, R.</strong> (2020). Comparing Annotations of Non-verbal Vocalisations in Speech Corpora. Laughter and Other Non-Verbal Vocalisations Workshop 2020, Bielefeld, 69-72. <a href="http://pauseparticles.org/docs/Trouvain_Werner_2020_Bielefeld.pdf" title="pdf">[pdf]</a> <a href="http://pauseparticles.org/docs/Trouvain_Werner_Poster.pdf" title="poster">[poster]</a></li>
 
 <li>Trouvain, J., <strong>Werner, R.</strong>, & Möbius, B. (2020). Visualisierung von Pausen und Artikulationsgeschwindigkeit verschiedener Sprechstile. Phonetik und Phonologie 16, 10-11 September, Trier.</li>
 
