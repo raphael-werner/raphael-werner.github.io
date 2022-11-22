@@ -3,8 +3,7 @@ layout: page
 title: CV
 permalink: /CV/
 ---
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-werner-83ba74226/)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-werner-83ba74226/).
 
 ## Work
 #### 2019-present:
