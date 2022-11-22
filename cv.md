@@ -11,7 +11,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-werner-83
 <ul>
   <li>Saarland University, Saarbrücken, Germany</li>
   <li>Research Associate in Phonetics and Phonology group at department of Language Science and Technology.</li>
-  <li>Project: <a href="http://pauseparticles.org/" title="PINTS">PINTS</a> -- Pause-internal phonetic particles, funded by Deutsche Forschungsgemeinschaft (DFG)</li>
+  <li>Project: <a href="http://pauseparticles.org/" title="PINTS">PINTS</a> - Pause-internal phonetic particles, funded by Deutsche Forschungsgemeinschaft (DFG)</li>
 </ul>
 #### 2016-2019:
 <ul>
