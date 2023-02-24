@@ -9,6 +9,11 @@ document.write(" "+testlast.substr(0,10));
 </script>
 
 In addition to this, you can find me on [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2).
+### 2023
+<ul>
+  <li>MacIntyre, A.D. & <strong>Werner, R.</strong> (accepted). An Automatic Method for Speech Breathing Annotation. Elektronische Sprachsignalverarbeitung (ESSV '23), 1-3 March, Munich.</li>
+  <li>Trouvain, J. & <strong>Werner, R.</strong> (accepted). Muster der Sprechatmung in verschiedenen Sprechstilen – eine Pilotstudie. Elektronische Sprachsignalverarbeitung (ESSV '23), 1-3 March, Munich.</li>
+</ul>
 ### 2022
 <ul>
   <li><strong>Werner, R.</strong>, Trouvain, J., & Möbius, B. (2022). Speaker discrimination and classification in breath noises by human listeners. Phonetik und Phonologie 18, 6-7 October, Bielefeld. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/Werner_PundP22.pdf" title="pdf">[pdf]</a> <a href="https://biecoll.ub.uni-bielefeld.de/index.php/pundp2022/article/view/1050" title="html">[html]</a> <a href="https://cloud.hiz-saarland.de/s/PgZ3PQ3PM9DJnoF" title="stimuli">[stimuli]</a></li>
