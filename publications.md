@@ -9,7 +9,6 @@ document.write(" "+testlast.substr(0,10));
 </script>
 
 In addition to this, you can find me on [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2).
-
 ### 2023
 <ul>
   <li>MacIntyre, A.D. & <strong>Werner, R.</strong> (accepted). An Automatic Method for Speech Breathing Annotation. Elektronische Sprachsignalverarbeitung (ESSV '23), 1-3 March, Munich.</li>
