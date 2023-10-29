@@ -14,4 +14,4 @@ A massive thank you to everyone showing up -- colleagues, friends, and family --
 And for the awesome hat I got!
 I am also extremely grateful who contributed to my PhD being such a lovely time!
 
-![Foto]({{ site.url }}/images/PhD-celebration.jpeg "PhD-celebration"){:height="400px" .center-image} 
+![Foto]({{ site.url }}/images/PhD-celebration.jpg "PhD-celebration"){:height="400px" .center-image} 
