@@ -9,9 +9,15 @@ document.write(" "+testlast.substr(0,10));
 </script>
 
 In addition to this, you can find me on [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2).
+
+### In press
+<ul>
+<li>Werner, R., Fuchs, S., Trouvain, J., Kürbis, S., Möbius, B. & Birkholz, P. (accepted). Acoustics of breath noises in human speech: Descriptive and 3D-modeling approaches.</li>
+</ul>
+
 ### 2023
 <ul>
-  <li>Trouvain, J., Muhlack, B., <strong>Werner, R.</strong>, & Möbius, B. (accepted). Discourse clicks across speakers in a German corpus of spontaneous speech. Phonetik und Phonologie 19, 6-7 October, Bern.</li>
+  <li>Trouvain, J., Muhlack, B., <strong>Werner, R.</strong>, & Möbius, B. (2023). Discourse clicks across speakers in a German corpus of spontaneous speech. Phonetik und Phonologie 19, 6-7 October, Bern. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/P&P2023-TrouvainMuhlackWernerMoebius.pdf" title="pdf">[pdf]</a><a href="https://boris.unibe.ch/186731/" title="html">[html]</a></li>
   <li>Fuchs, S., Koenig, L., & <strong>Werner, R.</strong> (2023). Respiratory and supralaryngeal effects on speech breathing noise across loudness conditions and speaking tasks. 20th International Congress of Phonetic Sciences (ICPhS '23), August 7-11, Prague. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/ICPhS2023-FuchsKoenigWerner.pdf" title="pdf">[pdf]</a> <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/ICPhS2023-FuchsKoenigWerner-poster.pdf" title="poster">[poster]</a></li> 
   <li>Trouvain, J. & <strong>Werner, R.</strong> (2023). Muster der Sprechatmung in verschiedenen Sprechstilen – eine Pilotstudie. Elektronische Sprachsignalverarbeitung (ESSV '23), 1-3 March, Munich. <a href="https://www.essv.de/pdf/2023_95_102.pdf" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1178" title="html">[html]</a></li>
   <li>MacIntyre, A.D. & <strong>Werner, R.</strong> (2023). An Automatic Method for Speech Breathing Annotation. Elektronische Sprachsignalverarbeitung (ESSV '23), 1-3 March, Munich. <a href="https://www.essv.de/pdf/2023_103_110.pdf" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1179" title="html">[html]</a></li>
