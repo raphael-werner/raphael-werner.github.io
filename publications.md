@@ -12,7 +12,7 @@ In addition to this, you can find me on [ResearchGate](https://www.researchgate.
 
 ### In press
 <ul>
-<li>Werner, R., Fuchs, S., Trouvain, J., Kürbis, S., Möbius, B. & Birkholz, P. (accepted). Acoustics of breath noises in human speech: Descriptive and 3D-modeling approaches.</li>
+<li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius, B. & Birkholz, P. (accepted). Acoustics of breath noises in human speech: Descriptive and 3D-modeling approaches.</li>
 </ul>
 
 ### 2023
