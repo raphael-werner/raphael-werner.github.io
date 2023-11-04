@@ -8,7 +8,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-werner-83
 ## Work
 #### 2023-present:
 <ul>
-  <li>Radboud Universiteit, Nijmegen, Netherlands</li>
+  <li>Radboud University, Nijmegen, Netherlands</li>
   <li>Research Assistant at Donders Institute for Brain, Cognition, and Behaviour</li>
   <li>Research with <a href="https://wimpouw.com/" title="Wim Pouw">Wim Pouw</a> on the interplay of upper-body muscle activity, posture, and voice production</li>
 </ul>  
