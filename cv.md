@@ -6,10 +6,16 @@ permalink: /CV/
 You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-werner-83ba74226/).
 
 ## Work
-#### 2019-present:
+#### 2023-present:
+<ul>
+  <li>Radboud Universiteit, Nijmegen, Netherlands</li>
+  <li>Research Assistant at Donders Institute for Brain, Cognition, and Behaviour</li>
+  <li>Research with <a href="https://wimpouw.com/" title="Wim Pouw">Wim Pouw</a> on the interplay of upper-body muscle activity, posture, and voice production</li>
+</ul>  
+#### 2019-2023:
 <ul>
   <li>Saarland University, Saarbrücken, Germany</li>
-  <li>Research Associate in Phonetics and Phonology group at department of Language Science and Technology.</li>
+  <li>Research Associate in Phonetics and Phonology group at department of Language Science and Technology</li>
   <li>Project: <a href="http://pauseparticles.org/" title="PINTS">PINTS</a> - Pause-internal phonetic particles, funded by Deutsche Forschungsgemeinschaft (DFG)</li>
 </ul>
 #### 2016-2019:
