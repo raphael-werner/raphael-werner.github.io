@@ -10,13 +10,10 @@ document.write(" "+testlast.substr(0,10));
 
 In addition to this, you can find me on [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2).
 
-### In press
-<ul>
-<li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius, B. & Birkholz, P. (accepted). Acoustics of breath noises in human speech: Descriptive and 3D-modeling approaches.</li>
-</ul>
 
 ### 2023
 <ul>
+  <li><strong>Werner, R.</strong>, Fuchs, S., Trouvain, J., Kürbis, S., Möbius, B. & Birkholz, P. (accepted). Acoustics of breath noises in human speech: Descriptive and 3D-modeling approaches. <a href="https://pubs.asha.org/doi/10.1044/2023_JSLHR-23-00112" title="ASHA">[ASHA]</a> <a href="https://pubmed.ncbi.nlm.nih.gov/37971432/" title="PubMed">[PubMed]</a></li>  
   <li>Trouvain, J., Muhlack, B., <strong>Werner, R.</strong>, & Möbius, B. (2023). Discourse clicks across speakers in a German corpus of spontaneous speech. Phonetik und Phonologie 19, 6-7 October, Bern. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/P&P2023-TrouvainMuhlackWernerMoebius.pdf" title="pdf">[pdf]</a> <a href="https://boris.unibe.ch/186731/" title="html">[html]</a></li>
   <li>Fuchs, S., Koenig, L., & <strong>Werner, R.</strong> (2023). Respiratory and supralaryngeal effects on speech breathing noise across loudness conditions and speaking tasks. 20th International Congress of Phonetic Sciences (ICPhS '23), August 7-11, Prague. <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/ICPhS2023-FuchsKoenigWerner.pdf" title="pdf">[pdf]</a> <a href="https://github.com/raphael-werner/raphael-werner.github.io/raw/master/pdfs/ICPhS2023-FuchsKoenigWerner-poster.pdf" title="poster">[poster]</a></li> 
   <li>Trouvain, J. & <strong>Werner, R.</strong> (2023). Muster der Sprechatmung in verschiedenen Sprechstilen – eine Pilotstudie. Elektronische Sprachsignalverarbeitung (ESSV '23), 1-3 March, Munich. <a href="https://www.essv.de/pdf/2023_95_102.pdf" title="pdf">[pdf]</a> <a href="https://www.essv.de/paper.php?id=1178" title="html">[html]</a></li>
