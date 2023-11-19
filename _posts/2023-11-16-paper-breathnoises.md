@@ -10,8 +10,8 @@ The paper gives the first description of the spectral characteristics of speech 
 In addition, we modeled in- and exhalations using 3D-printed vocal tract models, that were produced using MRI.
 The main findings are:
 <ol>
-  <li>Breath noises have several weak peaks that align with resonances found in a very controlled setting where participants inhaled with the VT configuration of a central vowel in <a href="https://doi.org/10.1121/1.5033330" title="Hanna et al. 2018">Hanna et al. 2018</a>.</li>
-  <li>Comparing in- and exhalation spectra in the 3D-printed VT models, airflow direction changes the spectral properties of /s ʃ ç i:/, but not of the other sounds we investigated.</li>
+  <li>Breath noises have several weak peaks that align with resonances found in a very controlled setting where participants inhaled with the VT configuration of a central vowel in <a href="https://doi.org/10.1121/1.5033330" title="Hanna2018">Hanna et al. 2018</a>.</li>
+    <li>Comparing in- and exhalation spectra in the 3D-printed VT models, airflow direction changes the spectral properties of /s ʃ ç i:/, but not of the other sounds we investigated.</li>
   <li>We tried to compare real inhalations and model inhalations but there is a myriad of mechanisms that are either hard to model or still un(der)-researched for speech breathing, so there's many interesting things left to do in that field.</li>
 </ol>
 
