@@ -2,6 +2,7 @@
 layout: post
 title: Journal paper on acoustics of breath noises online
 ---
+
 I am very happy to announce that the journal paper I first-authored called **Acoustics of Breath Noises in Human Speech: Descriptive and Three-Dimensional Modeling Approaches** is now **online** and **open access** via [ASHA](https://pubs.asha.org/doi/10.1044/2023_JSLHR-23-00112) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/37971432/).
 My co-authors for this project were Susanne Fuchs (ZAS Berlin), Jürgen Trouvain, Bernd Möbius (both UdS), Steffen Kürbis, and Peter Birkholz (both TU Dresden).
 
