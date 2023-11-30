@@ -7,4 +7,4 @@ I went there to start my new job at the [Donders Institute for Brain, Cognition,
 There, I'll be working with [Wim Pouw](https://wimpouw.com/) on the biomechanics of speech and gestures, so how the upper-body muscle activity, posture, and voice production interact.
 I am super excited for this, as we'll be using loads of fun methods such as sEMG for muscle activation, RIP for breathing patterns, balance boards for changes in posture, and video for 3D motion tracking.
 
-![Foto]({{ site.url }}/images/DondersLogo_webpage.jpg.jpg "DondersLogo"){:height="200px" .center-image} 
+![Foto]({{ site.url }}/images/DondersLogo_webpage.jpg "DondersLogo"){:height="200px" .center-image} 
