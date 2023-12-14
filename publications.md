@@ -12,7 +12,7 @@ In addition to this, you can find me on [ResearchGate](https://www.researchgate.
 
 ### Preprints / under review
 <ul>
-  <li>Pouw, W., <strong>Werner, R.</strong>, Burchardt, L. S., Selen, L. (submitted). The human voice aligns with whole-body kinetics.<a href="https://www.biorxiv.org/content/10.1101/2023.11.28.568991v1" title="preprint">[preprint]</a></li>
+  <li>Pouw, W., <strong>Werner, R.</strong>, Burchardt, L. S., Selen, L. (submitted). The human voice aligns with whole-body kinetics. <a href="https://www.biorxiv.org/content/10.1101/2023.11.28.568991v1" title="preprint">[preprint]</a></li>
 </ul>
 
 ### 2023
