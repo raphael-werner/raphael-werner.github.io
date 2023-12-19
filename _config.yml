@@ -4,7 +4,7 @@ highlighter:      rouge
 plugins: 	        [jekyll-paginate]
 
 # Setup
-title:            Raphael Werner
+title:            Dr. Raphael Werner
 description:      'Research Assistant at Donders Institute'
 url:              https://raphael-werner.github.io/
 baseurl:          https://raphael-werner.github.io/
