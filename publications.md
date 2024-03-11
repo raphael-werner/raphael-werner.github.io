@@ -12,13 +12,14 @@ In addition to this, you can find me on [ResearchGate](https://www.researchgate.
 
 ### Preprints / under review
 <ul>
-  <li><strong>Werner, R.</strong>, Selen, L., Pouw, W. (submitted). Arm movements increase acoustic markers of expiratory flow.</li>
+  
   <li>Pouw, W., <strong>Werner, R.</strong>, Burchardt, L. S., Selen, L. (submitted). The human voice aligns with whole-body kinetics. <a href="https://www.biorxiv.org/content/10.1101/2023.11.28.568991v1" title="preprint">[preprint]</a></li>
 </ul>
 
 ### 2024
 <ul>
-  <li>Pouw, W., Burchardt, L. S., <strong>Werner, R.</strong>, Selen, L. (Accepted). Movement-related muscle activity and kinetics affect vocalization amplitude. Proceedings of the International Conference on the Evolution of Language (Evolang) 2024.</li>
+  <li><strong>Werner, R.</strong>, Selen, L., Pouw, W. (accepted). Arm movements increase acoustic markers of expiratory flow. Speech Prosody, 2–5 July, Leiden. <a href="https://www.biorxiv.org/content/10.1101/2024.01.08.574611v1" title="preprint">[preprint]</a></li>
+  <li>Pouw, W., Burchardt, L. S., <strong>Werner, R.</strong>, Selen, L. (accepted). Movement-related muscle activity and kinetics affect vocalization amplitude. International Conference on the Evolution of Language (Evolang) 2024. 18-21 May, Madison. <a href="https://www.biorxiv.org/content/10.1101/2023.03.08.531710v1" title="preprint">[preprint]</a></li>
 </ul>
 
 ### 2023
