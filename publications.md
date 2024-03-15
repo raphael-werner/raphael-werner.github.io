@@ -18,7 +18,7 @@ In addition to this, you can find me on [ResearchGate](https://www.researchgate.
 
 ### 2024
 <ul>
-  <li><strong>Werner, R.</strong>, Selen, L., Pouw, W. (accepted). Arm movements increase acoustic markers of expiratory flow. Speech Prosody, 2–5 July, Leiden. <a href="https://www.biorxiv.org/content/10.1101/2024.01.08.574611v1" title="preprint">[preprint]</a></li>
+  <li><strong>Werner, R.</strong>, Selen, L., Pouw, W. (accepted). Arm movements increase acoustic markers of expiratory flow. Speech Prosody, 2-5 July, Leiden. <a href="https://www.biorxiv.org/content/10.1101/2024.01.08.574611v1" title="preprint">[preprint]</a></li>
   <li>Pouw, W., Burchardt, L. S., <strong>Werner, R.</strong>, Selen, L. (accepted). Movement-related muscle activity and kinetics affect vocalization amplitude. International Conference on the Evolution of Language (Evolang) 2024. 18-21 May, Madison. <a href="https://www.biorxiv.org/content/10.1101/2023.03.08.531710v1" title="preprint">[preprint]</a></li>
 </ul>
 
