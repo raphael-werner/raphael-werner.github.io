@@ -6,7 +6,14 @@ permalink: /CV/
 You can also find me on [LinkedIn](https://www.linkedin.com/in/raphael-werner-83ba74226/).
 
 ## Work
-#### 2023-present:
+
+#### 2024-present
+<ul>
+  <li>Johner Institut, Frankfurt, Germany</li>
+  <li>Usability Engineer</li>
+  <li>Running usability studies on medical devices with product users (e.g. nurses, surgeons, lay users) to see if they fulfill the required usability requirements</li>
+</ul>  
+#### 2023-2024:
 <ul>
   <li>Radboud University, Nijmegen, Netherlands</li>
   <li>Research Assistant at Donders Institute for Brain, Cognition, and Behaviour</li>
