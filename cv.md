@@ -39,7 +39,7 @@ permalink: /CV/
 </ul>
 
 ## Education
-#### 2019-present:
+#### 2019-2023:
 <ul>
  <li>PhD student, Phonetics, Saarland University, Saarbrücken, Germany</li>
  <li>Thesis topic: Perceptual and acoustic aspects of speech breathing and pauses</li>
