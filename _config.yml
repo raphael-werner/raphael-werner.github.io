@@ -5,7 +5,7 @@ plugins: 	        [jekyll-paginate]
 
 # Setup
 title:            Dr. Raphael Werner
-description:      'Research Assistant at Donders Institute'
+description:      'Usability Engineer at Johner Institut'
 url:              https://raphael-werner.github.io/
 baseurl:          https://raphael-werner.github.io/
 
