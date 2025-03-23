@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am currently a usability engineer at [Johner Institut](https://www.johner-institut.de/).
+I am a usability engineer at [Johner Institut](https://www.johner-institut.de/).
 There I help customers meet the regulatory requirements regarding usability of medical devices and run usability tests with users (e.g. nurses, surgeons, lay users) in Germany and the USA.
 As lab manager, I am responsible for technical maintenance and improving our main usability lab in Frankfurt a. M.
 
