@@ -10,4 +10,4 @@ We show that moving the arms (while manipulating mass) recruits (postural) muscl
 While waiting for publication, the [postprint](https://wimpouw.com/files/Pouwetalkinetics.pdf) is already available and so is the [RMarkdown](https://wimpouw.github.io/kineticsvoice/) showing the methods and results.
 Wim also made a great [post](https://bsky.app/profile/wimpouw.bsky.social/post/3ll6t7kazbk2j) about it on Bluesky.
 
-![Foto]({{ site.url }}/images/PouwWernerBurchardtSelen.jpg "PouwWernerBurchardtSelen"){:height="300px" .center-image} 
+![Foto]({{ site.url }}/images/PouwWernerBurchardtSelen.jpg "PouwWernerBurchardtSelen"){:height="500px" .center-image} 
