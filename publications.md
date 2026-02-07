@@ -10,10 +10,10 @@ document.write(" "+testlast.substr(0,10));
 
 In addition to this, you can find me on [ResearchGate](https://www.researchgate.net/profile/Raphael_Werner2).
 
-### Preprints / under review
+### 2025
 <ul>
   
-  <li>Pouw, W., <strong>Werner, R.</strong>, Burchardt, L. S., Selen, L. (submitted). The human voice aligns with whole-body kinetics. <a href="https://www.biorxiv.org/content/10.1101/2023.11.28.568991v1" title="preprint">[preprint]</a></li>
+  <li>Pouw, W., <strong>Werner, R.</strong>, Burchardt, L. S., Selen, L. (2025). The human voice aligns with whole-body kinetics. <a href="https://royalsocietypublishing.org/rspb/article-abstract/292/2047/20250160/234533/The-human-voice-aligns-with-whole-body-kineticsThe?redirectedFrom=fulltext" title="html">[html]</a> <a href="https://www.wimpouw.com/files/Pouwetalkinetics.pdf" title="pdf">[pdf]</a></li>
 </ul>
 
 ### 2024
