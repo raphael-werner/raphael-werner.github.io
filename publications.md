@@ -12,15 +12,12 @@ In addition to this, you can find me on [ResearchGate](https://www.researchgate.
 
 ### Preprints
 <ul>
-<li>
-  Marijn S.J. Hafkamp, <strong>Raphael Werner</strong>, Linda Drijvers, Luc Selen, Wim Pouw (preprint). Dissociating Mechanisms of Heart-Voice Coupling. <a href="https://www.biorxiv.org/content/10.64898/2025.12.01.691544v1" title="html">[html]</a> <a href="https://wimpouw.github.io/VoiceAndHeart/heartrate.html" title="RMarkdown voice">[RMarkdown voice]</a> <a href="https://wimpouw.github.io/VoiceAndHeart/heartrate_expire" title="RMarkdown expiration">[RMarkdown expiration]</a>
+<li>Marijn S.J. Hafkamp, <strong>Raphael Werner</strong>, Linda Drijvers, Luc Selen, Wim Pouw (preprint). Dissociating Mechanisms of Heart-Voice Coupling. <a href="https://www.biorxiv.org/content/10.64898/2025.12.01.691544v1" title="html">[html]</a> <a href="https://wimpouw.github.io/VoiceAndHeart/heartrate.html" title="RMarkdown voice">[RMarkdown voice]</a> <a href="https://wimpouw.github.io/VoiceAndHeart/heartrate_expire" title="RMarkdown expiration">[RMarkdown expiration]</a>
 </li>
-  
 </ul>
 
 ### 2025
 <ul>
-  
   <li>Pouw, W., <strong>Werner, R.</strong>, Burchardt, L. S., Selen, L. (2025). The human voice aligns with whole-body kinetics. Proceedings of the Royal Society B: Biological Sciences. 292 (2047): 20250160. <a href="https://royalsocietypublishing.org/rspb/article-abstract/292/2047/20250160/234533/The-human-voice-aligns-with-whole-body-kineticsThe?redirectedFrom=fulltext" title="html">[html]</a> <a href="https://www.wimpouw.com/files/Pouwetalkinetics.pdf" title="pdf">[pdf]</a> <a href="https://wimpouw.github.io/kineticsvoice/" title = "RMarkdown">[RMarkdown]</a></li>
 </ul>
 
